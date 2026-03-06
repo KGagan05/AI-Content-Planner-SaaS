@@ -68,4 +68,4 @@ The optimized files will be generated in the `dist` directory, ready to be hoste
 - **Backend/Platform**: [InsForge SDK](https://insforge.dev/)
 - **Icons**: [Lucide React](https://lucide.dev/)
 
-- 
+- The Project is Deployed in: https://pvns8pz7.insforge.site
