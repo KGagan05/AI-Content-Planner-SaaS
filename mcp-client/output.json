@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "✅ React template downloaded successfully\n\n📁 Template Location: /var/folders/zv/9vw8qw654xbbyqjq6q26xfwr0000gn/T/insforge-react\n\n⚠️  IMPORTANT: The template is in a temporary directory and NOT in your current working directory.\n\n🔴 CRITICAL NEXT STEP REQUIRED:\nYou MUST copy ALL files (INCLUDING HIDDEN FILES like .env, .gitignore, etc.) from the temporary directory to your current project directory.\n\nCopy all files from: /var/folders/zv/9vw8qw654xbbyqjq6q26xfwr0000gn/T/insforge-react\nTo: Your current project directory\n"
+    }
+  ]
+}

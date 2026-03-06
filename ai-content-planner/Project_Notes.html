@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        }
+
+        h1 {
+            color: #2c3e50;
+        }
+
+        h2 {
+            color: #34495e;
+        }
+
+        ul {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>AI Content Planner - Quick Reference Guide</h1>
+
+    <p><strong>1. What is it?</strong><br>
+        A production-ready SaaS web application for creators to generate, save, and manage their content ideas using
+        Artificial Intelligence.</p>
+
+    <h2>2. Tech Stack</h2>
+    <ul>
+        <li><strong>Frontend:</strong> React 19, Vite, TailwindCSS (for styling), Lucide (for icons).</li>
+        <li><strong>Backend / Platform:</strong> InsForge MCP (handles Authentication, Database, AI connections, and
+            edge functions).</li>
+        <li><strong>Language:</strong> TypeScript (Full-stack type safety).</li>
+    </ul>
+
+    <h2>3. Key Things to Remember</h2>
+    <ul>
+        <li><strong>Authentication:</strong> Needs InsForge setup. Only logged-in users can generate and save ideas.
+        </li>
+        <li><strong>Environment Variables:</strong> The app relies on the <code>.env</code> file (using
+            <code>VITE_INSFORGE_BASE_URL</code> and <code>VITE_INSFORGE_ANON_KEY</code>).</li>
+        <li><strong>Starting the project:</strong> Just run <code>npm run dev</code> in your terminal.</li>
+    </ul>
+</body>
+
+</html>
